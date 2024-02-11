@@ -1,0 +1,28 @@
+
+#font-face {
+  font-family: Khmer M1;
+  background-color: rgb(122, 190, 77);
+  border-radius: 15px;
+  position: sticky;
+  top: 0px; 
+}
+.mySlides{
+    border: -0px;
+}
+.logowat{
+  position: relative;
+  z-index: 0;
+  top: 01%; 
+  position: sticky;
+}
+.wajpg{
+  border-radius: 10px;
+}
+.font{
+ font-family: Kh Battambang;
+ margin: 2%;text-align: justify;
+}
+.fontbon{
+  font-family: khmer m1;
+  margin: center;
+}
